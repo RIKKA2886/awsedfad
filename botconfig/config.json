@@ -1,5 +1,5 @@
 {
-  "token": "DISCORD BOT TOKEN",
+  "token": "OTM5ODYyMTgwODQ3ODQxMzAw.Yf_A3Q.7BQsSDx7nTi_CGQBg4ES9M_i75A",
   "prefix": "!",
   "loadSlashsGlobal": false, "_COMMENT_": "Set it to true, when your Slash Commands are ready, false loads instant true loads slow but stable! (GLOBAL/GUILD COMMANDS, DISCORD DOCS!)",
   "slashCommandsDirs": [
